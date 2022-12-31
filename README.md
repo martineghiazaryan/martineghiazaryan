@@ -24,3 +24,5 @@
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+<figure><embed src="https://wakatime.com/share/@a674810f-942b-49bd-904d-36093dc66627/2f9be7ba-5391-43dc-9c67-b1c0db855e84.svg"></embed></figure>
