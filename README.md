@@ -22,14 +22,3 @@
   <img width='400px' src="https://github-readme-stats.vercel.app/api?username=martineghiazaryan&show_icons=true&locale=en" alt="martineghiazaryan" />
   <img width='400px' src="https://github-readme-streak-stats.herokuapp.com/?user=martineghiazaryan&" alt="martineghiazaryan" />
 </p> 
-
-<!--START_SECTION:waka-->
-
-```text
-Python   55 mins         ████████████████████████▓   99.06 %
-Other    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
-```
-
-<!--END_SECTION:waka-->
-
-
