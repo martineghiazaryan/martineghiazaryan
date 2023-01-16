@@ -22,3 +22,6 @@
   <img width='400px' src="https://github-readme-stats.vercel.app/api?username=martineghiazaryan&show_icons=true&locale=en" alt="martineghiazaryan" /> --->
   <img width='400px' src="https://github-readme-streak-stats.herokuapp.com/?user=martineghiazaryan&" alt="martineghiazaryan" />
 </p> 
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
