@@ -32,3 +32,6 @@ Other        5 mins          ▒░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+
+![Snake animation](https://github.com/martineghiazaryan/martineghiazaryan/blob/output/github-contribution-grid-snake.svg)
