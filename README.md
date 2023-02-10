@@ -20,7 +20,7 @@
 <p align="center">
   <img width='410px' src="https://github-readme-stats.vercel.app/api/top-langs?username=martineghiazaryan&show_icons=true&locale=en&layout=compact" alt="martineghiazaryan" />
   <img width='410px' src="https://github-readme-stats.vercel.app/api?username=martineghiazaryan&show_icons=true&locale=en" alt="martineghiazaryan" />
-  <img width='410px' src="https://github-readme-streak-stats.herokuapp.com/?user=martineghiazaryan&" alt="martineghiazaryan" />
+ <!--- <img width='410px' src="https://github-readme-streak-stats.herokuapp.com/?user=martineghiazaryan&" alt="martineghiazaryan" />--->
 </p> 
 
 <!--START_SECTION:waka-->
