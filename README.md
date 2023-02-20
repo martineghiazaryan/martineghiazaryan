@@ -24,14 +24,4 @@
   <img width='410px' src="https://github-readme-streak-stats.herokuapp.com/?user=martineghiazaryan&" alt="martineghiazaryan" />
 </p> 
 
-<!--START_SECTION:waka-->
-
-```text
-Python   26 mins         ██████████████████████▒░░   89.36 %
-Other    3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.64 %
-```
-
-<!--END_SECTION:waka-->
-
-
-![Snake animation](https://github.com/martineghiazaryan/martineghiazaryan/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/martineghiazaryan/martineghiazaryan/blob/output/github-contribution-grid-snake.svg) -->
