@@ -5,6 +5,7 @@
 
 
 - 🌱 I’m currently learning **Data Science & Machine Learning**
+- 💻 At the moment I am looking for an **internship** in Data Science or Machine Learning
 
 <!-- - 📫 How to reach me **martineghiazaryan@gmail.com** -->
 
