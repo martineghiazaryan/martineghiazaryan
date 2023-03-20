@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Martin</h1>
 <h3 align="center">A Data Science and Machine Learning Student located in France</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=martineghiazaryan&label=Profile%20views&color=0e75b6&style=flat" alt="martineghiazaryan" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/? be username=martineghiazaryan&label=Profile%20views&color=0e75b6&style=flat" alt="martineghiazaryan" /> </p>
 
 
 - 🌱 I’m currently learning **Data Science & Machine Learning**
 - 💻 At the moment I am looking for an **internship** in Data Science or Machine Learning. So feel free to contact me.
 
-- 📫 How to reach me **martineghiazaryan@gmail.com**
+<!---- 📫 How to reach me **martineghiazaryan@gmail.com**--->
 
 <h2 align="center">Contact me:</h2>
 <p align="center">
