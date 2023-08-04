@@ -4,7 +4,7 @@
 <!---<p align="center"> <img src="https://komarev.com/ghpvc/? be username=martineghiazaryan&label=Profile%20views&color=0e75b6&style=flat" alt="martineghiazaryan" /> </p>--->
 
 
-- 🌱I’m currently learning **Data Science & Machine Learning**
+- 🌱 I’m currently learning **Data Science & Machine Learning**
 - 💻 At the moment I am looking for an **Alternance** in Data Science or Machine Learning. So feel free to contact me.
 
 - 📫 How to reach me **martineghiazaryan@gmail.com**
