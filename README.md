@@ -5,9 +5,9 @@
 
 
 - 🌱 I’m currently learning **Data Science & Machine Learning**
-- 💻 At the moment I am looking for an **Alternance** in Data Science or Machine Learning. So feel free to contact me.
+- 💻 At the moment I am looking for opportunities in Data Science or Machine Learning. So feel free to contact me.
 
-- 📫 How to reach me **martineghiazaryan@gmail.com**
+- 📫 How to reach me **martineghiazaryan@gmail.com** and **martiros.yeghiazaryan@gmail.com**
 
 <h2 align="center">Contact me:</h2>
 <p align="center">
