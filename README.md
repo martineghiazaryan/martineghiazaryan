@@ -5,7 +5,6 @@
 A Machine Learning Engineer located in Paris, France  
 
 💻 I'm a Machine Learning Engineer  
-📩 How to reach me: [martineghiazaryan@gmail.com](mailto:martineghiazaryan@gmail.com) and [martiros.yeghiazaryan@gmail.com](mailto:martiros.yeghiazaryan@gmail.com)  
 
 ## Contact me:
 
