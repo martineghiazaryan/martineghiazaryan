@@ -61,14 +61,6 @@ A Machine Learning Engineer located in Paris, France
 
 ---
 
-### 📊 GitHub Stats
-
-![Martin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=martineghiazaryan&show_icons=true&theme=light)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martineghiazaryan&layout=compact&theme=light)
-
----
-
 ### 🌱 Current interests
 
 <br>Building **production agentic workflows** (orchestration, guardrails, evals)
